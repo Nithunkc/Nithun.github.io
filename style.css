@@ -366,7 +366,7 @@ section {
 .experience-timeline::before {
     content: '';
     position: absolute;
-    left: 15px;
+    left: 30px;
     top: 0;
     bottom: 0;
     width: 2px;
@@ -382,7 +382,7 @@ section {
 .experience-item::before {
     content: '';
     position: absolute;
-    left: 7px;
+    left: 22px;
     top: 0;
     width: 16px;
     height: 16px;
@@ -393,12 +393,11 @@ section {
 }
 
 .experience-date {
-    position: relative;
-    left: -00px;
+    position: absolute; 
+    left: -80px;
     top: 0;
     width: 60px;
-      text-align: left;
-     margin-bottom: 8px;
+    text-align: right;
 }
 
 .year {
