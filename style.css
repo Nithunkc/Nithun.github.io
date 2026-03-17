@@ -393,8 +393,8 @@ section {
 }
 
 .experience-date {
-    position: absolute;
-    left: -80px;
+    position: relative;
+    left: -00px;
     top: 0;
     width: 60px;
     text-align: right;
